@@ -1,0 +1,6 @@
+@import "tailwindcss"; 
+
+:root {
+    font-family: "Sour Gummy Variable", "sans serif"; 
+    background-color: #e1c8c7;
+}
