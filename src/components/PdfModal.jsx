@@ -27,7 +27,7 @@ function PdfModal() {
               transition
               className="w-full max-w-3xl rounded-xl bg-white/5 p-6 backdrop-blur-2xl duration-300 ease-out data-[closed]:transform-[scale(95%)] data-[closed]:opacity-0"
             >
-              <img src="public/resume.png" alt="Resume Application" />
+              <img src="./public/resume.png" alt="Resume Application" />
             </DialogPanel>
           </div>
         </div>

@@ -17,7 +17,7 @@ function App() {
       <div className="flex flex-col gap-2 p-8 sm:flex-row items-center sm:gap-6 sm:py-4">
         <img
           className="mx-auto block h-24 rounded-full sm:mx-0 sm:shrink-0"
-          src="public/profile.jpg"
+          src="./public/profile.jpg"
           alt="Andy Yin"
         />
         <div className="space-y-2 text-center sm:text-left">
